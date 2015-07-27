@@ -1,0 +1,5 @@
+"AddonInfo"
+{
+	"name"		"Bird mounts"
+	"author"	"CapsAdmin"
+}
